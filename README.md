@@ -1,4 +1,9 @@
-# MyDreamApp
+# Angular App With Mock API 
+
+Run `npm run generate` to run the generate file and populate server/database.json
+
+Run `npm run server ` to run the REST API server, which is available at localhost:3000
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
@@ -25,3 +30,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+See resource: https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/ 
+
